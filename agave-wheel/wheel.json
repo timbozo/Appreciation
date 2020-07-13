@@ -1,0 +1,532 @@
+[
+  {
+    "name" : "Fruity",
+    "children" : [
+      {
+        "name" : "Citrus",
+        "children" : [
+          {
+            "name" : "Lime",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Lemon",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Grapefruit",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Orange",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Berry",
+        "children" : [
+          {
+            "name" : "Blackberry",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Strawberry",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Tree fruit",
+        "children" : [
+          {
+            "name" : "Apricot",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Apple",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Pear",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Cherry",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Plum",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Tropical fruit",
+        "children" : [
+          {
+            "name" : "Pineapple",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Banana",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Melon",
+        "children" : [
+          {
+            "name" : "Honeydew",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Cantaloupe",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Dried fruit",
+        "children" : [
+          {
+            "name" : "Rasin",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Prune",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Artificial",
+        "children" : [
+          {
+            "name" : "Juicy fruit",
+            "colour" : "#FFF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "Vegetative & Herbal",
+    "children" : [
+      {
+        "name" : "Fresh",
+        "children" : [
+          {
+            "name" : "Fresh agave",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Green grass",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Bell pepper",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Jalapeno",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Celery",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Green tomato",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Mint",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Cooked",
+        "children" : [
+          {
+            "name" : "Green beans",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Green olive",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Black olive",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Dried",
+        "children" : [
+          {
+            "name" : "Tobacco",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Tea",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Hay-like",
+        "children" : [
+          {
+            "name" : "Hay",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Mulch",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Cereal",
+        "children" : [
+          {
+            "name" : "Graham cracker",
+            "colour" : "#FFF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "Caramelized",
+    "children" : [
+      {
+        "name" : "Caramel",
+        "children" : [
+          {
+            "name" : "Cooked agave",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Caramel",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Toffee",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Maple syrup",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Butterscotch",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Burnt sugar",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Molasses",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Brown sugar",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Chocolate",
+            "colour" : "#FFF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "Floral",
+    "children" : [
+      {
+        "name" : "Floral",
+        "children" : [
+          {
+            "name" : "Orange blossom",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Rose",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Potpourri",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Jasmine",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Lavendar",
+            "colour" : "#FFF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "Spices",
+    "children" : [
+      {
+        "name" : "Spices",
+        "children" : [
+          {
+            "name" : "Black pepper",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Cinnamon",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Cloves",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Anise",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Fennel",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Allspice",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Nutmeg",
+            "colour" : "#FFF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "Wood",
+    "children" : [
+      {
+        "name" : "Vanilla",
+        "children" : [
+          {
+            "name" : "Vanilla",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Custard",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Wood Spice",
+        "children" : [
+          {
+            "name" : "Cigar box",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Oak",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Cedar",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Nutty",
+        "children" : [
+          {
+            "name" : "Peanut",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Hazlenut",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Almond",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Pecan",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Praline",
+            "colour" : "#FFF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "Chemical",
+    "children" : [
+      {
+        "name" : "Pungent",
+        "children" : [
+          {
+            "name" : "Alcohol",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Acetone",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Papery",
+        "children" : [
+          {
+            "name" : "Wet cardboard",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Sulfer",
+        "children" : [
+          {
+            "name" : "Fireworks",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Cooked cabbage",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Wet dog",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Garlic",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Mineral",
+        "children" : [
+          {
+            "name" : "Salt",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Olive brine",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Slate",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Ash",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Chalk",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Petroleum",
+        "children" : [
+          {
+            "name" : "Rubber",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Plastic",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Bandaid",
+            "colour" : "#FFF"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name" : "Earthy",
+    "children" : [
+      {
+        "name" : "Smokey",
+        "children" : [
+          {
+            "name" : "Peaty",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Bacon",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Campfire",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Burnt toast",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Chipotle",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Soy sauce",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Moldy",
+        "children" : [
+          {
+            "name" : "Mushroom",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Bread yeast",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Mildew",
+            "colour" : "#FFF"
+          }
+        ]
+      },
+      {
+        "name" : "Earthy",
+        "children" : [
+          {
+            "name" : "Dirt",
+            "colour" : "#FFF"
+          },
+          {
+            "name" : "Leather",
+            "colour" : "#FFF"
+          }
+        ]
+      }
+    ]
+  }
+]
